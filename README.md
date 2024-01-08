@@ -23,7 +23,8 @@ Along with the scores and the football teams several statistics for each match w
  
 # Data Framework: ![Fifa DE Azure](https://github.com/snehalsmalladi/Azure-Fifa-Data-Analysis/assets/75508260/8bd92683-2168-485d-b009-87060923b8ba)
 
-# Analytics Dashboard: [Fifa World Cup 2022.pdf](https://github.com/snehalsmalladi/Azure-Fifa-Data-Analysis/files/13863914/Fifa.World.Cup.2022.pdf)
+# Analytics Dashboard: ![Screenshot 2024-01-08 at 11 49 36 AM](https://github.com/snehalsmalladi/Azure-Fifa-Data-Analysis/assets/75508260/6dcc9b20-6d99-48f8-a762-d231049d9669)
+
 
 
 
