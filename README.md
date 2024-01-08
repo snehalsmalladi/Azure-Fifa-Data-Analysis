@@ -27,7 +27,7 @@ Along with the scores and the football teams several statistics for each match w
 
 # Analytics Dashboard: 
 
-![Screenshot 2024-01-08 at 11 49 36 AM](https://github.com/snehalsmalladi/Azure-Fifa-Data-Analysis/assets/75508260/6dcc9b20-6d99-48f8-a762-d231049d9669)
+                       ![Screenshot 2024-01-08 at 11 49 36 AM](https://github.com/snehalsmalladi/Azure-Fifa-Data-Analysis/assets/75508260/6dcc9b20-6d99-48f8-a762-d231049d9669)
 
 
 
