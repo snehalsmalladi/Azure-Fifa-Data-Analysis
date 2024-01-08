@@ -1,4 +1,5 @@
-# Azure-Fifa-World-Cup-2022-Data-Analysis
+# Azure-Fifa-World-Cup-2022-Data-Analysis ![azure](https://github.com/snehalsmalladi/Azure-Fifa-Data-Analysis/assets/75508260/73966de6-92d7-4e0c-8073-ff1f88c78d4a)
+
 An end-to-end Azure Data Services project focused on extracting analytics on World Cup Football Data from 2022
 
 # Introduction   
